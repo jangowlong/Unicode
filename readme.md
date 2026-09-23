@@ -1,6 +1,6 @@
 # 特殊符號、特殊字元、特殊文字查詢
 
-## ![](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%A9%98%E8%89%B201.jpg)
+## ![](https://github.com/jangowlong/Unicode/blob/main/img/%E6%A9%98%E8%89%B201.jpg?raw=true)
 
 #### [創意匹配 Emoji💡](https://emojidir.com/zh-CN) 
 
@@ -10,25 +10,25 @@
 
 #### [Unicodia.exe Unicode字元瀏覽器，桌面應用程式](https://github.com/Mercury13/unicodia/releases) 
 
-![](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E7%B4%AB%E8%89%B201.jpg)
+![](https://github.com/jangowlong/Unicode/blob/main/img/%E7%B4%AB%E8%89%B201.jpg?raw=true)
 
 ## ㊙特殊符號、各類符號表→✿❤★☺✔℃▼♈◉①ⓐ㋐❝￥的符號符號表,符號代碼,表情符號ʕ•ᴥ•ʔ
 
 ## 😀📚🔒💡👥📝🎧🔍📑📈🤖 
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%A9%98%E8%89%B201.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%A9%98%E8%89%B201.jpg?raw=true)
 
 ## 國字數字 國字大寫 特殊符號(銀行,支票用)
 
 ### 零 壹 貳 參 肆 伍 陸 柒 捌 玖 拾，佰 仟 萬 億，圓 角 分 零 整^0^ ✔ 如
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E7%B4%AB%E8%89%B201.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E7%B4%AB%E8%89%B201.jpg?raw=true)
 
 ## 打勾、打叉 特殊符號
 
 ### ✓ ✔ ✗ ✘ ∨ √ ˇ ☐ ☑ ☒
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%BA%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%BA%E8%97%8D01.jpg?raw=true)
 
 ## 三角形 特殊符號
 
@@ -42,23 +42,23 @@
 
 ### ⍒ ⌺ ⍙ ⏅ ⏃ ⏄ ⍋ ⍫ ⍱ ⍲ ⍢
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%BA%E7%81%B001.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%BA%E7%81%B001.jpg?raw=true)
 
 ## 圓形 特殊符號
 
 ### ◦○ ◯ ⦿ ◉ ● ⊖ ⊙ ⊚ ⊕ ⊗ ⊘ ⊛ ⊜ ⊝ ◌ ◍ ◎ ◐ ◑ ◒ ◓ ◔ ◕ ◖ ◗  ❍ ⌒  ◜ ◝ ◞ ◟ ◠ ◡ ⍥ ⧀ ⧁ ⦰ ⦷ ⦹ ⦺ ⦻ ⦼ ⦽ ⧂ ⧃ ⧭ ⍜ ♾ ⏀ ⏁ ⏂ ⍉ ⌽ ⎊ ⧬ ⧭ ◵ ⦻ ⧲ ⧳ ⚇ ⚆ ⚉ ⚈
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 大、小愛心 雙愛心 常用愛心特殊符號
 
 ### ♥ ❤ ❥ ♡ დ ღ ❣ ❦ ❧ ❤ ღ ❥ ♡ 💓 💔 💕 💖 💗 💘 💙 💚 💛 💜 💝 💞 💟
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E7%B6%A001.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E7%B6%A001.jpg?raw=true)
 
 ## 上下箭頭、左右箭頭、單雙各式箭頭 常用箭頭特殊符號
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E7%81%B001.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E7%81%B001.jpg?raw=true)
 
 ### ↑ ↓ → ← ↔ ↕ ↗ ↖ ↘ ↙ ↛ ↚  ⤴ ⤵ ↵ ↴ ↱ ↰ ↳ ↲
 
@@ -90,11 +90,11 @@
 
 ### ⮰ ⮱ ⮲ ⮳ ⮴ ⮵ ⮶ ⮷ ⮨ ⮩ ⮫ ⮬ ⮭ ⮮ ⮯
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E7%B4%85%E7%B7%9A01.png)
+**![img](https://github.com/jangowlong/Unicode/blob/main/img/%E7%B4%85%E7%B7%9A01.png?raw=true)**
 
 ### 注音符號、注音特殊符號
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E7%B1%B3%E9%BB%8301.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E7%B1%B3%E9%BB%8301.png?raw=true)
 
 ### ㄅ ㄆ ㄇ ㄈ ㄉ ㄊ ㄋ ㄌ ㄍ ㄎ 
 
@@ -104,21 +104,21 @@
 
 ### ㄣ ㄤ ㄥ ㄦ ㄧ ㄨ ㄩ ˙ ¯ ˊ ˇ ˋ ˙
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 標點、逗點、驚嘆號、分號、冒號、問號..常見特殊符號
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ### ， 、 。 ！ ： ； ︰ ˙ ‥ ‧ ‵ ❛ ❜ ❝ ❞ 〃 〝 〞 ﹁ ﹂ ﹃ ﹄ ﹐ ﹒ ﹔ ﹔ ﹕ ＃ ＄ ％ ＆ ＊ ． ？ ＠ ～ • … ¿ ⁇ ⁉ ⁈ ‽ ⸘ ❢ “ ‘ · ′ ” ’
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 左右括號、大小括號 常用特殊符號
 
 ### （ ） ＜ ＞ ｛ ｝ 〈 〉 《 》 「 」 『 』 【 】 〔 〕 ﹙ ﹚ ﹛ ﹜ ﹝ ﹞ ﹤ ﹥
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 上下括號 常用特殊符號
 
@@ -130,13 +130,13 @@
 
 ### ★ ☆ ✪ ✦ ✧ ✩ ✫ ✬ ✭ ✮ ✯ ✰ ✡ ⁂ ⁎ ⁑ * ⁕ ✢ ✣ ✥ ✱ ✲ ✳ ✴ ✵ ✶ ✷ ✸ ✹ ✺ ⛤ ⛥ ⛦ ⛧ ⚝ 🔮 💫 🌍 🌎 🌏 🌐 🌒 🌓 🌔 🌕 🌝 🌖 🌗 🌘 🌑 🌚 🌙 🌜 🌛 ☀
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 花朵、冰雪、雪花 常用特殊符號
 
 ### ✿ ❀ ❁ ❂ ❃ ❇ ❈ ❉ ❊ ❋ ✻ ✼ ✤ ✽ ✾ 💮 🌸 🏵
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 數字 阿拉伯數字 常用特殊符號
 
@@ -166,7 +166,7 @@
 
 #### ⅰ ⅱ ⅲ ⅳ ⅴ ⅵ ⅶ ⅷ ⅸ ⅹ ⅺ ⅻ
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 方塊 長條 圖形 正方形 長方形 菱形 特殊符號、色塊特殊符號
 
@@ -178,7 +178,7 @@
 
 ▖ ▗ ▘ ▙ ▚ ▛ ▜ ▝ ▞ ▟
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 數學運算、數學單位 常用特殊符號
 
@@ -226,7 +226,7 @@
 
 ### sinθ cosθ tanθ cotθ secθ cscθ
 
- ![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+ ![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 人、表情 常用特殊符號,emoji
 
@@ -250,7 +250,7 @@
 
 ### 🙅
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 男、女性別 常用特殊符號(2019/8/27 新增)
 
@@ -258,7 +258,7 @@
 
 ### 🚹 🚺 🚻 🚼 🚾 🚮 ♿ 🚸 
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 12星座 常用特殊符號
 
@@ -266,17 +266,17 @@
 
 ### ♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 天氣 晴 雲 雷 雨 閃電 彩虹 風 雪 冰 雪人 火 水 常用特殊符號,emoji
 
 ### ☀ ☁ ☂ ϟ  ☄ ☉ ☼ ☾ ☽ ♁ ♨ ❄ ❅ ❆ ☃ ⭐ ☁ ⛅ 🌤 🌥 🌦 🌧 🌩 🌪 🌫 🌀 🌈 🌂 ☔ ☂ ⚡ ⛄ 💦 🔥 💧
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 手指 常用特殊符號,emoji
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ### ☛ ☚ ☞ ☜ ☟
 
@@ -288,7 +288,7 @@
 
 ------
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 辦公室 常用特殊符號/書/信/電話/剪刀/光碟/紙(2020/1/11 調整)
 
@@ -298,7 +298,7 @@
 
 ### 📻 🖨 💾 💿 📀 🎥 🎞 📽 📺 📷 📸 📔 📕 📖 📗 📘 📙 📚 📓 📃 📜 📄 📰 🗞 📑 🔖🧾🗳 📝 📈 📉 📊 📋 📌 📏 📐 🗃 🗄 🗑 🔒 🔓 🔏 🔐 🔑 🗝 🔨 ⛏
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 水果、蔬菜 常用特殊符號,Emojis
 
@@ -308,7 +308,7 @@
 
 ### 🍆 🥔 🥕 🌽 🌶 🥒 🥦 🍄 🥜
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 食物(白米飯、咖哩、麵、壽司..) 常用特殊符號,Emojis
 
@@ -316,7 +316,7 @@
 
 ### 🥟 🥠 🥢 🍽 🍴 🥄 
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 冰淇淋、甜點、蛋糕、飲料 常用特殊符號,Emojis
 
@@ -342,7 +342,7 @@
 
 ### 🐳 🐟 🦋 🐛 🐍 🐌  🦇  🐞
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ### 交通工具(火車、捷運、車、飛機、船..)常用特殊符號(2018/7/24 新增) ,emoji
 
@@ -352,37 +352,37 @@
 
 ### ⛴ 🛳 🚁 🚠 🚀
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 球類(藍球、棒球、足球、排球、橄欖球、羽球、保齡球..)常用特殊符號 ,emoji
 
 ### 🏀 ⚾ ⚽ 🏐 🏈 🎾 🎳 🎱 🏉
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 音符、音樂 常用特殊符號
 
 ### ♩ ♪ ♫ ♬ ♭ ♮ ♯ 🎵 🎶
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 撲克牌(梅花,方塊,愛心,黑桃) 常用特殊符號
 
 ### ♣ ♦ ♥ ♠ ♡ ♢ ♤ ♧ 
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 易經 常用特殊符號
 
 ### ☰ ☱ ☲ ☳ ☴ ☵ ☶ ☷
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 線段 常用特殊符號
 
 ### ‐ ‑ ‒ ― ⁃ ≣ ⎯ ─ ━ │ ┃ ┄ ┅ ┆ ┇ ┈ ┉ ┊ ┋  ╌ ╍ ╎ ╏ ═ ═ ║  ╱ ╲ ╳ ╴ ╵ ╶ ╷ ╸ ╹ ╺ ╻ ╼ ╽ ╾ ╿ ▏ ▕  — 
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 長度、溫度、學術、面積、攝氏、華氏 常用特殊符號
 
@@ -402,7 +402,7 @@
 
 ### ㏐ ㏑ ㏒ ㏓ ㏔ ㏕ ㏖ ㏗ ㏙ ㏚ ㏛ ㏜ ㏝
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 貨幣 常用特殊符號
 
@@ -410,7 +410,7 @@
 
 ### $　￥　₩　￡　€　￠　¥　₽ 　₮　฿　৲　৳　௹　៛　₠　₢　₣　₤　₥　₦　₧　₨　₪　₫　₭　₯　₰　₲　₳　₴　﷼　¢　¤　ƒ
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 角度  常用特殊符號
 
@@ -430,13 +430,13 @@
 
 ⓐ　ⓑ　ⓒ　ⓓ　ⓔ　ⓕ　ⓖ　ⓗ　ⓘ　ⓙ　ⓚ　ⓛ　ⓜ　ⓝ　ⓞ　ⓟ　ⓠ　ⓡ　ⓢ　ⓣ　ⓤ　ⓥ　ⓦ　ⓧ　ⓨ　ⓩ　
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 中國文字 常用特殊符號
 
 ### ㊣　㊤　㊥　㊦　㊧　㊨　㊊　㊋　㊌　㊍　㊎　㊏　㊐　㊕　㊙　㊚　㊛　㊖　㊗　㊘　㊜　㊝　㊞　㊟　㊠　㊡　㊢　㊩　㊪　㊫　㊬　㊭　㊮　㊯　㊰　㊑　㊒　㊓　㊔
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 日語 日文 常用特殊符號
 
@@ -460,13 +460,13 @@
 
 ### ㍻　㍼　㍽　㍾　㍿
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 韓文 韓語 常用特殊符號
 
 ### ㄱ　ㄲ　ㄳ　ㄴ　ㄵ　ㄶ　ㄷ　ㄸ　ㄹ　ㄺ　ㄻ　ㄼ　ㄽ　ㄾ　ㄿ　ㅀ　ㅁ　ㅂ　ㅃ　ㅄ　ㅅ　ㅆ　ㅇ　ㅈ　ㅉ　ㅊ　ㅋ　ㅌ　ㅍ　ㅎ　ㅏ　ㅐ　ㅑ　ㅒ　ㅓ　ㅔ　ㅕ　ㅖ　ㅗ　ㅘ　ㅙ　ㅚ　ㅛ　ㅜ　ㅝ　ㅞ　ㅟ　ㅠ　ㅡ　ㅢ　ㅥ　ㅦ　ㅧ　ㅨ　ㅩ　ㅪ　ㅫ　ㅬ　ㅭ　ㅮ　ㅯ　ㅰ　ㅱ　ㅲ　ㅳ　ㅴ　ㅵ　ㅶ　ㅷ　ㅸ　ㅹ　ㅺ　ㅻ　ㅼ　ㅽ　ㅾ　ㅿ　ㆀ　ㆁ　ㆂ　ㆃ　ㆄ　ㆅ　ㆆ　ㆇ　ㆈ　ㆉ　ㆊ
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 英文kk音標 常用特殊符號
 
@@ -480,19 +480,19 @@
 
 ### dz　dr　j　w　m　n　ŋ　l
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 希臘字母 常用特殊符號
 
 ### α　β　χ　δ　ε　η　γ　ι　κ　λ　μ　ν　ω　ο　φ　π　ψ　ρ　σ　τ　θ　υ　ξ　ζ
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 月份 常用特殊符號
 
 ### ㋀　㋁　㋂　㋃　㋄　㋅　㋆　㋇　㋈　㋉　㋊　㋋
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 星期 常用特殊符號
 
@@ -500,7 +500,7 @@
 
 ### ㊐　㊊　㊋　㊌　㊍　㊎　㊏
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 日期 常用特殊符號
 
@@ -512,7 +512,7 @@
 
 ------
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 時間 常用特殊符號
 
@@ -522,7 +522,7 @@
 
 ### ㏂　㏘
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 時間（時鐘） 常用特殊符號(2018/1/20 新增) ,emoji
 
@@ -536,7 +536,7 @@
 
 ### 🕢7點半　🕣8點半　🕤9點半　🕥10點半　🕦11點半　🕧12點半
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 塑膠材質回收編號、資源回收 常用特殊符號(2018/2/14 新增) ,emoji
 
@@ -544,13 +544,13 @@
 
 ### ♲　♻　♼　♽
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 骰子點數 常用特殊符號(2018/2/14 新增)
 
 ### ⚀ ⚁ ⚂ ⚃ ⚄ ⚅
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 分隔線符號 常用特殊符號
 
@@ -562,19 +562,19 @@
 
 ### ╠═╬═╬═╬═╬═╬═╬═╬═╬═╬═╣
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 國際象棋 西洋棋 常用特殊符號
 
 ### ♔　♕　♖　♗　♘　♙　♚　♛　♜　♝　♞　♟
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 文化、宗教 常用特殊符號
 
 ### ☯　✚　✛　✜　✝　✞　✟　☪　✡　♕　♚　♛　☤　☥　☦　☧　☨　☩　☫　☬　☮　☭　☸　☽　☾　✙　✠　✢　☠　 卍　卐　⛩　⛪　⛫
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 特殊字母 常用特殊符號
 
@@ -586,7 +586,7 @@
 
 ### č　Ĥ 
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 上下標 常用特殊符號(2017/05/02新增)
 
@@ -598,7 +598,7 @@
 
 ### ₑ　ₒ　ₓ　ₐ　ₔ
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## ❝ 符號加符號，等於無限個「表情符號」，顏文字/かおもじ/emoticon：非單一符號，由數個文字或符號所組成的表情。❞
 
@@ -606,7 +606,7 @@
 
 ### 😀😃😄😁😆👍✌️🤟🙏👀💍🐥🐱🐤🐧🍀☘️🎄🌲🌸🌼🌞⭐️🌟✨⚡️🔥🍎🍓🍧🍰🎂🏆🥇🚗⏰🎉🎀🔑🗒📅✏️🔓❤️💖💝💯▶️➡️☑️✔️🔔📣
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
 
 ## 表情符號、顏文字、symbols 常用特殊符號
 
@@ -644,4 +644,4 @@
 
 ### 乁( ◔ ౪◔)「
 
-![img](https://filedn.eu/lYLz2pdwCkjfUPJx5zXVHEz/tutorial/HTML%2C%20CSS%2C%20%26%20JavaScript%20All-in-One%20For%20Dummies/%E6%B7%B1%E8%97%8D01.jpg)
+![img](https://github.com/jangowlong/Unicode/blob/main/img/%E6%B7%B1%E8%97%8D01.jpg?raw=true)
